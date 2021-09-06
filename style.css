@@ -1,0 +1,57 @@
+#im1{
+    
+    height: 200px;
+    width: 250px;
+}
+ #introduce{
+    text-align: center;
+}
+#introduce{
+    background-image: linear-gradient(purple,yellow);
+}
+body{
+        background-image: linear-gradient(red, yellow);
+
+}
+#oop{
+    font-size: 20px;
+    color : red;
+}
+button{
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links{
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover{
+    background-color: aqua;
+}
+
+#suuuuuuup{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+#oop{
+    font-size: 40px;
+    font-family: 'MonteCarlo', cursive;     
+}
+#oooop{
+text-align: center;
+}
